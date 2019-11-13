@@ -3,7 +3,7 @@
 
 新建springboot工程，配置仓库路径
 ```
-  spring:
+spring:
   application:
     name: config-server
   cloud:
